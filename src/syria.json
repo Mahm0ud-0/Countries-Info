@@ -1,0 +1,213 @@
+[
+    {
+        "name": {
+            "common": "Syria",
+            "official": "Syrian Arab Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية العربية السورية",
+                    "common": "سوريا"
+                }
+            }
+        },
+        "tld": [
+            ".sy",
+            "سوريا."
+        ],
+        "cca2": "SY",
+        "ccn3": "760",
+        "cca3": "SYR",
+        "cioc": "SYR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "SYP": {
+                "name": "Syrian pound",
+                "symbol": "£"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "63"
+            ]
+        },
+        "capital": [
+            "Damascus"
+        ],
+        "altSpellings": [
+            "SY",
+            "Syrian Arab Republic",
+            "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "translations": {
+            "ara": {
+                "official": "الجمهورية العربية السورية",
+                "common": "سوريا"
+            },
+            "bre": {
+                "official": "Republik Arab Siriat",
+                "common": "Siria"
+            },
+            "ces": {
+                "official": "Syrská arabská republika",
+                "common": "Sýrie"
+            },
+            "cym": {
+                "official": "Syrian Arab Republic",
+                "common": "Syria"
+            },
+            "deu": {
+                "official": "Arabische Republik Syrien",
+                "common": "Syrien"
+            },
+            "est": {
+                "official": "Süüria Araabia Vabariik",
+                "common": "Süüria"
+            },
+            "fin": {
+                "official": "Syyrian arabitasavalta",
+                "common": "Syyria"
+            },
+            "fra": {
+                "official": "République arabe syrienne",
+                "common": "Syrie"
+            },
+            "hrv": {
+                "official": "Sirijska Arapska Republika",
+                "common": "Sirija"
+            },
+            "hun": {
+                "official": "Szíriai Arab Köztársaság",
+                "common": "Szíria"
+            },
+            "ita": {
+                "official": "Repubblica araba siriana",
+                "common": "Siria"
+            },
+            "jpn": {
+                "official": "シリアアラブ共和国",
+                "common": "シリア・アラブ共和国"
+            },
+            "kor": {
+                "official": "시리아 아랍 공화국",
+                "common": "시리아"
+            },
+            "nld": {
+                "official": "Syrische Arabische Republiek",
+                "common": "Syrië"
+            },
+            "per": {
+                "official": "جمهوری عربی سوریه",
+                "common": "سوریه"
+            },
+            "pol": {
+                "official": "Syryjska Republika Arabska",
+                "common": "Syria"
+            },
+            "por": {
+                "official": "República Árabe Síria",
+                "common": "Síria"
+            },
+            "rus": {
+                "official": "Сирийская Арабская Республика",
+                "common": "Сирия"
+            },
+            "slk": {
+                "official": "Sýrska arabská republika",
+                "common": "Sýria"
+            },
+            "spa": {
+                "official": "República Árabe Siria",
+                "common": "Siria"
+            },
+            "srp": {
+                "official": "Сиријска Арапска Република",
+                "common": "Сирија"
+            },
+            "swe": {
+                "official": "Syriska arabiska republiken",
+                "common": "Syrien"
+            },
+            "tur": {
+                "official": "Suriye Arap Cumhuriyeti",
+                "common": "Suriye"
+            },
+            "urd": {
+                "official": "عرب جمہوریہ سوریہ",
+                "common": "سوریہ"
+            },
+            "zho": {
+                "official": "叙利亚阿拉伯共和国",
+                "common": "叙利亚"
+            }
+        },
+        "latlng": [
+            35.0,
+            38.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "IRQ",
+            "ISR",
+            "JOR",
+            "LBN",
+            "TUR"
+        ],
+        "area": 185180.0,
+        "demonyms": {
+            "eng": {
+                "f": "Syrian",
+                "m": "Syrian"
+            },
+            "fra": {
+                "f": "Syrienne",
+                "m": "Syrien"
+            }
+        },
+        "flag": "\uD83C\uDDF8\uD83C\uDDFE",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
+        },
+        "population": 17500657,
+        "gini": {
+            "2003": 37.5
+        },
+        "fifa": "SYR",
+        "car": {
+            "signs": [
+                "SYR"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/sy.png",
+            "svg": "https://flagcdn.com/sy.svg",
+            "alt": "The flag of Syria is composed of three equal horizontal bands of red, white and black. At the center of the white band are two small five-pointed green stars arranged in a horizontal line."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                33.5,
+                36.3
+            ]
+        }
+    }
+]
